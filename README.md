@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @themarwhal
+- 👀 I’m interested in working on tooling that improves developer experiencing!
+- 🌱 I’m currently learning lots of things about Bazel 
+- 📫 Reach me at marie.bremner@gmail.com or [LinkedIn](https://www.linkedin.com/in/marie-bremner-488977102)
+
+<!---
+themarwhal/themarwhal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
