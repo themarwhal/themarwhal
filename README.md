@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Marie
-- 👀 I’m interested in working on tooling that improves developer experiencing!
+- 👀 I’m interested in working on tools that improves developer experience!
 - 🌱 I’m currently learning lots of things about Bazel 
 - 📫 Reach me at marie.bremner@gmail.com or [LinkedIn](https://www.linkedin.com/in/marie-bremner-488977102)
 
